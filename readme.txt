@@ -3,7 +3,7 @@ Proyecto Java con MongoDB – CRUD
  Autor
 
 Brayan Palacios Guzmán
-
+Yeider Dario Gaona Lopez
  Descripción
 
 Este proyecto es una aplicación básica desarrollada en Java que permite conectarse a una base de datos MongoDB y realizar operaciones CRUD sobre una colección de usuarios.
